@@ -37,3 +37,4 @@ compress_html:
   # blanklines: true
   # profile: true
   startings: [html, head, body]
+url: http://dojocon.coderdojo.jp
